@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc libProject_lib.a CMakeFiles/Project_lib.dir/Base.obj CMakeFiles/Project_lib.dir/Derived1.obj CMakeFiles/Project_lib.dir/Derived2.obj CMakeFiles/Project_lib.dir/Lab01Inheritance.obj CMakeFiles/Project_lib.dir/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe libProject_lib.a

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Base.cpp
+Base.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Base.h
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Base.h
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived1.cpp
+Derived1.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived1.h
+iostream
+-
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived1.h
+Base.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Base.h
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived2.cpp
+Derived2.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived2.h
+iostream
+-
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived2.h
+Base.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Base.h
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Lab01Inheritance.cpp
+iostream
+-
+Derived1.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived1.h
+Derived2.h
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/Derived2.h
+
+C:/Users/XPC/CLionProjects/lab01-inheritance-Estiven06/src/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+
