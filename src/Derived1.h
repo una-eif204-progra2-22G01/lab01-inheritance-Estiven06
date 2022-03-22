@@ -10,10 +10,8 @@ using namespace std;
 
 class Derived1: public Base{
 public:
-    Derived1();
-    virtual ~Derived1();
-    int do_something();
-    string toString();
+    void do_something() override;
+
 };
 
 

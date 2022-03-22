@@ -7,6 +7,7 @@
 Base::Base() {}
 Base::~Base() {}
 
-int Base::do_something() {
-    return 0;
+void Base::do_something() {
+    cout<<"Base";
 }
+

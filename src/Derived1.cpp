@@ -4,19 +4,11 @@
 
 #include "Derived1.h"
 #include <iostream>
+#include <sstream>
+
 using namespace std;
 
-Derived1::Derived1() {}
-
-int Derived1::do_something() {
-    return 1;
-}
-string Derived1::toString() {
-    stringstream ss;
-    ss<<do_something()<<endl;
-    return ss.str();
+void Derived1::do_something() {
+    cout<<"Derived1";
 }
 
-Derived1::~Derived1() {
-
-}
