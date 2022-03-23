@@ -8,11 +8,19 @@ using namespace std;
 #include <iostream>
 
 class Base {
+private:
+    string name;
 public:
     Base();
     virtual ~Base();
 
     virtual void do_something();
+
+    const string &getName() const;
+
+    void setName(const string &name);
+
+    friend ostream &operator<<(ostream &os, const Base &base);
 
 };
 

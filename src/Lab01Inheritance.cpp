@@ -1,8 +1,7 @@
-#include <iostream>  // allows program to output data to the screen
+#include <iostream>
 #include "Derived1.h"
 #include "Derived2.h"
 
-// function main begins program execution
 int main() {
     std::cout << "Welcome to the UNA!" << std::endl;
 
