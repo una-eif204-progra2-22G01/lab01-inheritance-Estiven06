@@ -12,4 +12,6 @@ int main() {
     Derived2 derived2;
     derived2.do_something();
 
+    return 0;
+
 }  // end function main
